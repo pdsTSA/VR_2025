@@ -5,9 +5,10 @@ using UnityEngine.UI;
 public class ScreenTextController : MonoBehaviour {
     public TextMeshPro questionText;
     public TextMeshPro[] answerTexts;
+    public GameObject[] interactables;
 
     void Start() {
-        SetQuestion("What is the capital of France?", new string[] { "Berlin", "Paris", "Madrid", "Rome" });
+        SetQuestion("Which nickname is commonly associated with Miami?", new string[] { "The Magic City", "The Windy City", "The Big Apple", "The Mile-High City" });
     }
 
     public void SetQuestion(string question, string[] answers) {

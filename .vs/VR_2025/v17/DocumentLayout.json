@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\artem_iz\\VR_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72ACE504-A19E-FD32-7EB4-67E497302EE6}|Assembly-CSharp.csproj|c:\\users\\artem_iz\\vr_2025\\assets\\scripts\\theatertextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72ACE504-A19E-FD32-7EB4-67E497302EE6}|Assembly-CSharp.csproj|c:\\users\\artem_iz\\vr_2025\\assets\\scripts\\thethuzzscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ACE504-A19E-FD32-7EB4-67E497302EE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thethuzzscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ACE504-A19E-FD32-7EB4-67E497302EE6}|Assembly-CSharp.csproj|c:\\users\\artem_iz\\vr_2025\\assets\\scripts\\teleportscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ACE504-A19E-FD32-7EB4-67E497302EE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\teleportscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B34F7-AC15-6061-55BC-03F5F4C6AE23}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\artem_iz\\VR_2025\\assets\\samples\\xr interaction toolkit\\3.0.7\\starter assets\\starterassets.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2F9B34F7-AC15-6061-55BC-03F5F4C6AE23}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\3.0.7\\starter assets\\starterassets.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ACE504-A19E-FD32-7EB4-67E497302EE6}|Assembly-CSharp.csproj|C:\\Users\\artem_iz\\VR_2025\\assets\\scripts\\theatertextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72ACE504-A19E-FD32-7EB4-67E497302EE6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\theatertextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,19 +35,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TheaterTextManager.cs",
-              "DocumentMoniker": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\TheaterTextManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TheaterTextManager.cs",
-              "ToolTip": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\TheaterTextManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TheaterTextManager.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDEAAAAWAAAAAAAAAA==",
+              "Title": "theThuzzScript.cs",
+              "DocumentMoniker": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\theThuzzScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\theThuzzScript.cs",
+              "ToolTip": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\theThuzzScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\theThuzzScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T07:56:02.55Z",
+              "WhenOpened": "2025-03-14T18:19:11.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TeleportScript.cs",
+              "DocumentMoniker": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\TeleportScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TeleportScript.cs",
+              "ToolTip": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\TeleportScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TeleportScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:46:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarterAssets.asmdef",
+              "DocumentMoniker": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\StarterAssets.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\StarterAssets.asmdef",
+              "ToolTip": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\StarterAssets.asmdef",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\StarterAssets.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2025-03-14T17:18:47.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheaterTextManager.cs",
+              "DocumentMoniker": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\TheaterTextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TheaterTextManager.cs",
+              "ToolTip": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\TheaterTextManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TheaterTextManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:56:02.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TextManager.cs",
               "DocumentMoniker": "C:\\Users\\artem_iz\\VR_2025\\Assets\\Scripts\\TextManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TextManager.cs",
